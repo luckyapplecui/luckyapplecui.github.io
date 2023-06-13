@@ -8,34 +8,50 @@
 	>
 
 <channel>
-	<title>未分类 &#8211; wordpress网站</title>
+	<title>未分类 &#8211; 网站标题</title>
 	<atom:link href="https://luckyapplecui.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luckyapplecui.github.io/</link>
-	<description>又一个WordPress站点</description>
-	<lastBuildDate>Fri, 09 Jun 2023 08:22:26 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 13 Jun 2023 07:32:36 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://luckyapplecui.github.io/wp-content/uploads/2023/06/cropped-icon2-32x32.jpg</url>
+	<title>未分类 &#8211; 网站标题</title>
+	<link>https://luckyapplecui.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>世界，您好！</title>
-		<link>https://luckyapplecui.github.io/2023/05/26/hello-world/</link>
-					<comments>https://luckyapplecui.github.io/2023/05/26/hello-world/?#comments</comments>
+		<title>sketch02</title>
+		<link>https://luckyapplecui.github.io/2023/06/13/sketch02/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Fri, 26 May 2023 03:29:02 +0000</pubDate>
+		<pubDate>Tue, 13 Jun 2023 07:03:40 +0000</pubDate>
 				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">https://luckyapplecui.github.io/?p=1</guid>
+		<guid isPermaLink="false">https://luckyapplecui.github.io/?p=32</guid>
 
-					<description><![CDATA[欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！]]></description>
-										<content:encoded><![CDATA[
-<p>欢迎使用WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！<img width="1000" height="800" class="wp-image-9" style="width: 150px;" src="https://luckyapplecui.github.io/wp-content/uploads/2023/05/inner.jpg" alt="" srcset="https://luckyapplecui.github.io/wp-content/uploads/2023/05/inner.jpg 1000w, https://luckyapplecui.github.io/wp-content/uploads/2023/05/inner-300x240.jpg 300w, https://luckyapplecui.github.io/wp-content/uploads/2023/05/inner-768x614.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://luckyapplecui.github.io/2023/05/26/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<description><![CDATA[]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>sketch01</title>
+		<link>https://luckyapplecui.github.io/2023/06/13/sketch01/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Jun 2023 06:39:29 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">https://luckyapplecui.github.io/?p=27</guid>
+
+					<description><![CDATA[]]></description>
+		
 		
 		
 			</item>
