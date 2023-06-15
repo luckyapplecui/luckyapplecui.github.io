@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	“网站标题”的评论	</title>
+	Comments for wordpress网站	</title>
 	<atom:link href="https://luckyapplecui.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luckyapplecui.github.io/</link>
-	<description></description>
-	<lastBuildDate>Tue, 13 Jun 2023 07:32:36 +0000</lastBuildDate>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 15 Jun 2023 08:40:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

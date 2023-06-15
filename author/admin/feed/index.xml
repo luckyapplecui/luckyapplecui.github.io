@@ -8,50 +8,32 @@
 	>
 
 <channel>
-	<title>admin &#8211; 网站标题</title>
+	<title>admin &#8211; wordpress网站</title>
 	<atom:link href="https://luckyapplecui.github.io/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luckyapplecui.github.io/</link>
-	<description></description>
-	<lastBuildDate>Tue, 13 Jun 2023 07:32:36 +0000</lastBuildDate>
-	<language>zh-CN</language>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 15 Jun 2023 08:38:39 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
-
-<image>
-	<url>https://luckyapplecui.github.io/wp-content/uploads/2023/06/cropped-icon2-32x32.jpg</url>
-	<title>admin &#8211; 网站标题</title>
-	<link>https://luckyapplecui.github.io/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 	<item>
-		<title>sketch02</title>
-		<link>https://luckyapplecui.github.io/2023/06/13/sketch02/</link>
+		<title>post01-use elementor</title>
+		<link>https://luckyapplecui.github.io/2023/06/15/post01-use-elementor/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 07:03:40 +0000</pubDate>
-				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">https://luckyapplecui.github.io/?p=32</guid>
+		<pubDate>Thu, 15 Jun 2023 08:37:41 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://luckyapplecui.github.io/?p=7</guid>
 
 					<description><![CDATA[]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>sketch01</title>
-		<link>https://luckyapplecui.github.io/2023/06/13/sketch01/</link>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 13 Jun 2023 06:39:29 +0000</pubDate>
-				<category><![CDATA[未分类]]></category>
-		<guid isPermaLink="false">https://luckyapplecui.github.io/?p=27</guid>
-
-					<description><![CDATA[]]></description>
-		
+										<content:encoded><![CDATA[<style>/*! elementor - v3.13.3 - 28-05-2023 */<br />
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>
+<p><img decoding="async" src="https://luckyapplecui.github.io/wp-content/uploads/2023/06/sketch3图2.jpg" sizes="(max-width: 660px) 100vw, 660px" srcset="https://luckyapplecui.github.io/wp-content/uploads/2023/06/sketch3图2.jpg 1000w, https://luckyapplecui.github.io/wp-content/uploads/2023/06/sketch3图2-300x240.jpg 300w, https://luckyapplecui.github.io/wp-content/uploads/2023/06/sketch3图2-768x614.jpg 768w" alt="" width="660" height="528" /></p>
+]]></content:encoded>
+					
 		
 		
 			</item>
