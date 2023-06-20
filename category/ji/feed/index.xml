@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>地铁阜成门，下班</title>
-	<atom:link href="https://luckyapplecui.github.io/feed/" rel="self" type="application/rss+xml" />
+	<title>奇数分类 &#8211; 地铁阜成门，下班</title>
+	<atom:link href="https://luckyapplecui.github.io/category/ji/feed/" rel="self" type="application/rss+xml" />
 	<link>https://luckyapplecui.github.io/</link>
 	<description>i love coding then</description>
-	<lastBuildDate>Mon, 19 Jun 2023 07:45:41 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jun 2023 06:48:14 +0000</lastBuildDate>
 	<language>zh-CN</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,22 +22,21 @@
 
 <image>
 	<url>https://luckyapplecui.github.io/wp-content/uploads/2023/06/cropped-logo2-32x32.jpg</url>
-	<title>地铁阜成门，下班</title>
+	<title>奇数分类 &#8211; 地铁阜成门，下班</title>
 	<link>https://luckyapplecui.github.io/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>文章04</title>
-		<link>https://luckyapplecui.github.io/2023/06/19/%e6%96%87%e7%ab%a004/</link>
+		<title>文章03</title>
+		<link>https://luckyapplecui.github.io/2023/06/19/%e6%96%87%e7%ab%a003/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Mon, 19 Jun 2023 04:57:31 +0000</pubDate>
-				<category><![CDATA[偶数分类]]></category>
-		<category><![CDATA[冰，火]]></category>
-		<guid isPermaLink="false">https://luckyapplecui.github.io/?p=33</guid>
+		<pubDate>Mon, 19 Jun 2023 04:55:56 +0000</pubDate>
+				<category><![CDATA[奇数分类]]></category>
+		<guid isPermaLink="false">https://luckyapplecui.github.io/?p=23</guid>
 
-					<description><![CDATA[分类为：偶数]]></description>
+					<description><![CDATA[]]></description>
 		
 		
 		
